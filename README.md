@@ -1,1 +1,2 @@
 # odin-recipes
+My first Odin Project to be honest i was feeling a bit scared while using git commands first time in my life i made a lot of mistakes still i am not ssatisfied with my work i made a really bad odin recipe project but i am working hard to become a good webdeveloper.
